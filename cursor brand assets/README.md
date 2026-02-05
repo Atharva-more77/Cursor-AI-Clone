@@ -24,9 +24,33 @@ A modern, responsive landing page for Cursor AI - an AI-powered coding tool desi
 
 ```
 Cursor_AI/
-├── index.html          # Main landing page
-├── style.css          # Styling and layout
-└── README.md          # Project documentation
+├── index.html              # Main landing page
+├── style.css              # Styling and layout
+├── cursor brand assets/   # All image assets
+│   ├── CUBE_2D_DARK.svg
+│   ├── maincontent.png
+│   ├── stripe.svg
+│   ├── openai.svg
+│   ├── linear.svg
+│   ├── datadog.svg
+│   ├── nvidia.svg
+│   ├── figma.svg
+│   ├── ramp.svg
+│   ├── adobe.svg
+│   ├── contnt1.png
+│   ├── contnt2.png
+│   ├── contnt3.png
+│   ├── diana.webp
+│   ├── shadcn-avatar.webp
+│   ├── andrej-karpathy-avatar.webp
+│   ├── patrick-collison-avatar.webp
+│   ├── theprimeagen-avatar.webp
+│   ├── greg-brockman-avatar.webp
+│   ├── left3.png
+│   ├── center3.png
+│   ├── right3.png
+│   └── last.png
+└── README.md              # Project documentation
 ```
 
 ## 🛠️ Technologies Used
