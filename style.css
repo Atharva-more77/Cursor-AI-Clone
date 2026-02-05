@@ -541,6 +541,7 @@ h3 , .subcontent{
 #languages{
     background-color: #1B1913;
     border-radius: 8px;
+    cursor: pointer;
 }
 #lang{
     color: #edecdc;
@@ -549,6 +550,7 @@ h3 , .subcontent{
     height: 30px;
     width: 100px;
     padding-left: 5px;
+    cursor: pointer;
 }
 #footer-side{
     display: flex;
@@ -556,6 +558,7 @@ h3 , .subcontent{
     align-items: center;
     justify-content: flex-end;
     gap: 20px;
+    cursor: pointer;
 }
 #sun:hover{
     color: #bfb7b3;
